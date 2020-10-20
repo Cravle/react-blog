@@ -1,10 +1,11 @@
 import React from 'react';
+import './post-status-filter.css';
 
 const PoststatusFilter = () => {
-    return(
+    return (
         <div className="btn-group">
-            <button/>
-            <button/>
+            <button />
+            <button />
         </div>
     )
 }
